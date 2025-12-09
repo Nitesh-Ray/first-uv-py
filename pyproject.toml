@@ -1,0 +1,10 @@
+[project]
+name = "nit-code"
+version = "0.1.0"
+description = "Add your description here, mine is be good be happy live life"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.124.0",
+    "uvicorn>=0.38.0",
+]
